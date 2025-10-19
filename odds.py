@@ -17,7 +17,7 @@ API_KEY = "90c10370e72b2e0880972b196f12e50c"
 API_BASE = "https://api.the-odds-api.com/v4"
 
 PERU_BOOKMAKERS = [
-    "betsson", "onexbet", "coolbet", "pinnacle", "marathonbet",
+    "betsson", "onexbet", "coolbet", "marathonbet",
     "williamhill", "betonlineag", "mybookieag", "everygame", "betanysports"
 ]
 
